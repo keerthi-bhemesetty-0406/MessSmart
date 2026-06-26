@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-cream: #FDFBF7;
+  --color-brand-spice: #C2593F;
+  --color-brand-spice-hover: #A5442C;
+  --color-brand-amber: #E29D4B;
+  --color-brand-coffee: #2C1F1B;
+  --color-brand-card: #FFFFFF;
+}
+
+body {
+  background-color: var(--color-brand-cream);
+  color: var(--color-brand-coffee);
+  font-family: system-ui, -apple-system, sans-serif;
+}
