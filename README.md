@@ -330,15 +330,21 @@ Sensitive configuration files are excluded from version control.
 
 ---
 
-## Admin Dashboard
-
-![Admin Dashboard](screenshots/admin-dashboard.png)
-
----
-
 ## QR Meal Token
 
 ![QR Token](screenshots/qr-token.png)
+
+---
+
+## Billing
+
+![Billing](screenshots/past-bills.png)
+
+---
+
+## Admin Dashboard
+
+![Admin Dashboard](screenshots/admin-dashboard.png)
 
 ---
 
@@ -348,11 +354,6 @@ Sensitive configuration files are excluded from version control.
 
 ---
 
-## Billing
-
-![Billing](screenshots/past-bills.png)
-
----
 
 # 🚀 Future Enhancements
 
