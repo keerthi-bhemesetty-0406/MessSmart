@@ -31,3 +31,13 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Sensitive configuration
+src/main/resources/application.properties
+
+# Environment files
+.env
+.env.*
+
+# Keep the template file
+!src/main/resources/application-template.properties
