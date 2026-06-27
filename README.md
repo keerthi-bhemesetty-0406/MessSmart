@@ -350,7 +350,7 @@ Sensitive configuration files are excluded from version control.
 
 ## Billing
 
-![Billing](screenshots/pastbills.png)
+![Billing](screenshots/past-bills.png)
 
 ---
 
