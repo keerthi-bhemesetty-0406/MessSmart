@@ -375,6 +375,4 @@ B.Tech Computer Science
 
 Full Stack Java Developer
 
----
 
-⭐ If you found this project useful, consider giving it a star.
